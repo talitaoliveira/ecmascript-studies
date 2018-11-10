@@ -23,7 +23,7 @@ npm i
 
 ### 4. Run Project
 ```
-npm starts
+npm start
 ```
 
 
