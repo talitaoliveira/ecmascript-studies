@@ -26,6 +26,9 @@ npm i
 npm starts
 ```
 
+### 5. Go to http://localhost:3000/ to see in action
+
+----
 
 ## Installed packages ```(--save-dev)```:
 
@@ -37,4 +40,6 @@ npm starts
 - ```babel-loader@7``` 
 - ```babel-preset-env```
 
+-----
 
+Project developed to fix some basic configurations of webpack + babel
