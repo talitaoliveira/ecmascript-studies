@@ -42,4 +42,4 @@ npm start
 
 -----
 
-Project developed to fix some basic configurations of webpack + babel
+Project developed to fix in mind some basic configurations of webpack + babel
