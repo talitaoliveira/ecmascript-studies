@@ -8,7 +8,7 @@ A basic structure to initiate a new project using Webpack + Babel (to use new th
 
 ### 1. Clone the project to your machine
 ```
-git clone https://github.com/talitaoliveira/basic-webpack-babel
+git clone https://github.com/talitaoliveira/basic-webpack-babel.git
 ```
 
 ### 2. Go to the project cloned
