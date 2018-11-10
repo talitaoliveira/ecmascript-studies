@@ -23,7 +23,7 @@ npm i
 
 ### 4. Run Project
 ```
-npm starts
+npm start
 ```
 
 ### 5. Go to http://localhost:3000/ to see in action
