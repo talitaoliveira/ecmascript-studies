@@ -1,17 +1,7 @@
 
 # ⭐️ Basic project with Webpack + Babel ⭐️
 
-A basic structure to initiate a new project using Webpack + Webpack devserver + Babel (to use new the features of EcmaScript)
-
-## Installed packages ```(--save-dev)```:
-
-- ```webpack```
-- ```webpack-cli```
-- ```webpack-dev-server```
-
-- ```babel-core ```
-- ```babel-loader@7``` 
-- ```babel-preset-env```
+A basic structure to initiate a new project using Webpack + Babel (to use new the features of EcmaScript)
 
 
 ## Run project
@@ -30,3 +20,21 @@ cd basic-webpack-babel
 ```
 npm i
 ```
+
+### 4. Run Project
+```
+npm starts
+```
+
+
+## Installed packages ```(--save-dev)```:
+
+- ```webpack```
+- ```webpack-cli```
+- ```webpack-dev-server```
+
+- ```babel-core ```
+- ```babel-loader@7``` 
+- ```babel-preset-env```
+
+
