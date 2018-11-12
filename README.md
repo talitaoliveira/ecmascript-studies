@@ -1,7 +1,7 @@
 
 # ⭐️ Basic project with Webpack + Babel ⭐️
 
-A basic structure to initiate a new project using Webpack + Babel (to use new the features of EcmaScript)
+A basic structure to initiate a new project using Webpack + Babel (to use the new features of EcmaScript)
 
 
 ## Run project
@@ -42,4 +42,4 @@ npm start
 
 -----
 
-Project developed to fix some basic configurations of webpack + babel
+Project developed to fix in mind some basic configurations of webpack + babel
