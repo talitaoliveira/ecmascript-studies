@@ -7,12 +7,12 @@ Repository with purpose to study new features of ecmascript
 
 ### 1. Clone the project to your machine
 ```
-git clone https://github.com/talitaoliveira/basic-webpack-babel.git
+git clone https://github.com/talitaoliveira/ecmascript-studies.git
 ```
 
 ### 2. Go to the project cloned
 ```
-cd basic-webpack-babel
+cd ecmascript-studies
 ```
 
 ### 3. Install dependencies
