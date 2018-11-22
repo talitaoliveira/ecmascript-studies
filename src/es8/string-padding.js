@@ -1,3 +1,12 @@
+/**
+ * STRING PADDING
+ */
+
+// padStart()
+
+// padEnd()
+
+// EXAMPLE
 const firstLine = '=======================================================';
 const lastLine = firstLine;
 const lenghtLines = firstLine.length;
