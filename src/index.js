@@ -2,7 +2,7 @@ const firstLine = '=======================================================';
 const lastLine = firstLine;
 const lenghtLines = firstLine.length;
 
-let welcomeText = '⭐️ Hello World! Webpack + Babel! ⭐️';
+let welcomeText = '⭐️ Hello String Padding! ⭐️';
 const lengthText = welcomeText.length;
 const leftToComplete = lenghtLines - lengthText;
 const halfComplete = leftToComplete/2;
