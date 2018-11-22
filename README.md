@@ -1,8 +1,7 @@
 
-# ⭐️ Basic project with Webpack + Babel ⭐️
+# ⭐️ Ecmascript Studies ⭐️
 
-A basic structure to initiate a new project using Webpack + Babel (to use the new features of EcmaScript)
-
+Repository with purpose to study new features of ecmascript
 
 ## Run project
 
@@ -28,18 +27,3 @@ npm start
 
 ### 5. Go to http://localhost:3000/ to see in action
 
-----
-
-## Installed packages ```(--save-dev)```:
-
-- ```webpack```
-- ```webpack-cli```
-- ```webpack-dev-server```
-
-- ```babel-core ```
-- ```babel-loader@7``` 
-- ```babel-preset-env```
-
------
-
-Project developed to fix in mind some basic configurations of webpack + babel
