@@ -8,6 +8,6 @@
 let newNumber1 = Math.pow(4, 2);
 console.log(newNumber1); // 16
 
-// not using Math library
+// using exponentiation operator
 let newNumber2 = 4 ** 2;
 console.log(newNumber2); // 16
