@@ -2,6 +2,7 @@
  * PROMISE.PROTOTYPE.FINALLY()
  * - Always executed
  * - Allow to execute some code if the promise is successful or not successful
+ * - Similar to finally {} on synchronous code  (try/catch/finally)
  */
 
 // example
